@@ -86,4 +86,5 @@ To build a strong foundation in healthcare analytics and develop a professional 
 ## 📬 Contact
 
 For collaboration, academic discussion, or professional opportunities, feel free to connect.
+LinkedIn: www.linkedin.com/in/ramprasad-m-155b53214
 
