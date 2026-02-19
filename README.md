@@ -41,7 +41,7 @@ Future projects may also include:
 - Applied log scaling to handle skewed numerical data
 - Generated structured insights and professional report
 
-📁 Folder: `Project-1-COVID-Clinical-Trials-EDA`
+📁 Folder: [`Project-1-COVID-Clinical-Trials-EDA`](https://github.com/Ramprasad8056/Healthcare-Data-Analytics-Projects/tree/main/Project-1-COVID-Clinical-Trials-EDA)
 
 ---
 
