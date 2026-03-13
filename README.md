@@ -23,12 +23,10 @@ Through these projects, I aim to combine domain knowledge in healthcare with ana
 - Seaborn
 - Google Colab
 - GitHub
-
-Future projects may also include:
 - SQL
 - Power BI
-- Machine Learning models
 - Clinical data interpretation
+
 
 ---
 
