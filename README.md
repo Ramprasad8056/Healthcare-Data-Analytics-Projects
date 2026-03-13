@@ -43,7 +43,6 @@ Through these projects, I aim to combine domain knowledge in healthcare with ana
 
 ---
 
-(Upcoming Projects)
 
 ### 2️⃣ Project 2 – Road Accident Analysis (2020)
 - Data querying and analysis by SQL
