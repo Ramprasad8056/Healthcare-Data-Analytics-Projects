@@ -1,8 +1,8 @@
 # 🚦 Road Accident Analysis – India (2020)
 
 ## 📊 Project Overview
-•	This project analyzes road accident data across major Indian cities to identify accident trends, high-risk locations, fatality rates, and major contributing causes.
-•	The goal is to transform raw accident data into meaningful insights using Excel, SQL, and Power BI and present them through an interactive dashboard.
+- This project analyzes road accident data across major Indian cities to identify accident trends, high-risk locations, fatality rates, and major contributing causes.
+- The goal is to transform raw accident data into meaningful insights using Excel, SQL, and Power BI and present them through an interactive dashboard.
 
 ## 🎯 Objective
 •	Identify cities with the highest accident occurrences
