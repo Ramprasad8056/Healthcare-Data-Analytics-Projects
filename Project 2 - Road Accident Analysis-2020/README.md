@@ -5,7 +5,7 @@ This project analyzes road accident data across major Indian cities to identify 
 The goal is to transform raw accident data into meaningful insights using Excel, SQL, and Power BI and present them through an interactive dashboard.
 
 ## 🎯 Objective
-Identify cities with the highest accident occurrences
+Identify cities with the highest accident occurrences.
 Analyze fatality and injury trends
 Determine major accident causes
 Visualize geographic accident distribution
