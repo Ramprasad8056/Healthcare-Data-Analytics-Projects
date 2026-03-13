@@ -52,7 +52,7 @@ Through these projects, I aim to combine domain knowledge in healthcare with ana
 - Calculating fatality rate (Deaths per Accident)
 - Developing an interactive Power BI dashboard
 
-📁 Folder: PROJECT 2 - ROAD ACCIDENT ANALYSIS 2020
+📁 Folder: [PROJECT 2- ROAD ACCIDENT ANALYSIS 2020](
 
 ### 3️⃣ Project 3 – [Title will be updated]
 
