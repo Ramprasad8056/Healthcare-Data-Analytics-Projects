@@ -45,8 +45,14 @@ Through these projects, I aim to combine domain knowledge in healthcare with ana
 
 (Upcoming Projects)
 
-### 2️⃣ Project 2 – [Title will be updated]
-Description will be added upon completion.
+### 2️⃣ Project 2 – Road Accident Analysis (2020)
+- Data querying and analysis by SQL
+- Identifying top 10 cities with highest accident volume
+- Visualizing accident distribution using map analysis
+- Calculating fatality rate (Deaths per Accident)
+- Developing an interactive Power BI dashboard
+
+📁 Folder: PROJECT 2 - ROAD ACCIDENT ANALYSIS 2020
 
 ### 3️⃣ Project 3 – [Title will be updated]
 
