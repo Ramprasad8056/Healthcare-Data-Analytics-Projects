@@ -22,10 +22,11 @@ Through these projects, I aim to combine domain knowledge in healthcare with ana
 - Matplotlib
 - Seaborn
 - Google Colab
-- GitHub
-- SQL
+- SQL (MySQL)
 - Power BI
-- Clinical data interpretation
+- Power Query (Data Transformation)
+- GitHub
+- Clinical Data Interpretation
 
 
 ---
@@ -53,7 +54,16 @@ Through these projects, I aim to combine domain knowledge in healthcare with ana
 
 📁 Folder: [`Project 2 - Road Accident Analysis-2020`](https://github.com/Ramprasad8056/Healthcare-Data-Analytics-Projects/tree/main/Project%202%20-%20Road%20Accident%20Analysis-2020)
 
-### 3️⃣ Project 3 – OCD PATIENT ANALYSIS
+### 3️⃣ Project 3 – OCD Patient Analysis
+- Performed data extraction and transformation using SQL
+- Conducted exploratory data analysis on OCD patient demographics and clinical variables
+- Created severity classification (Mild, Moderate, Severe, Extreme) using feature engineering
+- Analyzed relationships between symptom duration and severity using scatter analysis
+- Evaluated depression prevalence across severity categories
+- Explored medication patterns and their association with severity levels
+- Built an interactive Power BI dashboard with slicers for dynamic filtering
+- Designed a structured clinical dashboard for insight-driven decision making
+
 📁 Folder: [`Project 3 - OCD Patients Analysis`](https://github.com/Ramprasad8056/Healthcare-Data-Analytics-Projects/tree/main/Project%203%20-%20OCD%20Clinical%20Data%20Analysis%20Dashboard)
 
 ### 4️⃣ Project 4 – [Title will be updated]
