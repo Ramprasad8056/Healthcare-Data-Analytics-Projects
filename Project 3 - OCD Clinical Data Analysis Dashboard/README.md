@@ -32,6 +32,7 @@ The analysis was performed using:
 - Severity distribution shows significant clustering in moderate to severe ranges
 - Gender distribution is nearly balanced across severity levels
 
+---
 
 ## 🧩 Dashboard Features
 - Interactive dashboard with KPI cards, slicers, and dynamic visuals for real-time analysis
@@ -39,13 +40,15 @@ The analysis was performed using:
 - Uses scatter, bar, and donut charts to explore patterns and relationships
 - Enables multi-dimensional filtering by gender, severity, medication, and ethnicity
 
+---
+
 ## 🧠 Conclusion
 - Higher symptom duration is associated with increased OCD severity
 - Depression is more prevalent in severe and extreme cases
 - Most patients fall within moderate to severe severity categories
 - Treatment and severity patterns vary across medication groups
 
-
+---
 
 ## 👨‍⚕️ Author
 Ram Prasad  
