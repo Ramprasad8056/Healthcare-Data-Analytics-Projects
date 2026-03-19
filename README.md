@@ -53,7 +53,7 @@ Through these projects, I aim to combine domain knowledge in healthcare with ana
 
 📁 Folder: [`Project 2- Road Accident Analysis-2020`](https://github.com/Ramprasad8056/Healthcare-Data-Analytics-Projects/tree/main/Project%202%20-%20Road%20Accident%20Analysis-2020)
 
-### 3️⃣ Project 3 – [Title will be updated]
+### 3️⃣ Project 3 – [`Project 3 - OCD Patients Analysis`](https://github.com/Ramprasad8056/Healthcare-Data-Analytics-Projects/tree/main/Project%203%20-%20OCD%20Clinical%20Data%20Analysis%20Dashboard)
 
 ### 4️⃣ Project 4 – [Title will be updated]
 
