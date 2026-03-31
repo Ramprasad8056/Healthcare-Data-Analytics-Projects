@@ -78,7 +78,15 @@ Through these projects, I aim to combine domain knowledge in healthcare with ana
 
   📁 Folder: [`Project 4 – Drug Analysis`](https://github.com/Ramprasad8056/Healthcare-Data-Analytics-Projects/tree/main/Project%204%20-%20Drug%20Side%20Effects%20Analysis)
 
-### 5️⃣ Project 5 – [Title will be updated]
+### 5️⃣ Project 5 – Clinical Laboratory Abnormality Monitoring Dashboard
+- Built an interactive Power BI dashboard for ~3000 patient lab records
+- Analyzed key parameters (Sodium, Potassium, Glucose, Hemoglobin, WBC, Platelets, RBC, Cholesterol, BP)
+- Classified values into Low, Normal, High
+- Enabled dynamic metric selection and dual-condition analysis
+- Created DAX-based data model for interactive visuals (pie, scatter, demographic analysis)
+- Applied clinical filtering logic and designed a dark-themed dashboard UI
+
+  📁 Folder: [`Project 5 – Clinical Lab Abnormality`](https://github.com/Ramprasad8056/Healthcare-Data-Analytics-Projects/tree/main/Project%205%20-%20Clinical%20lab%20dataset%20Analysis)
 
 ---
 
