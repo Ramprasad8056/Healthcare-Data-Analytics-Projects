@@ -1,0 +1,25 @@
+TOTAL PATIENTS,3000,,HIGH RISK PATIENTS,247,,MODERATE RISK PATIENTS,1471,,LOW RISK PATIETNS,1282,,,,,,,,,
+AVG(age),50.56,,AVG(age),51.0081,,,,,,,,,,,,,,,
+AVG(hemoglobin_g_dl),13.4548,,AVG(glucose_mg_dl),176.6073,,,,,,,,,,,,,,,
+AVG(glucose_mg_dl),145.2797,,AVG(cholesterol_mg_dl),238.3522,,,,,,,,,,,,,,,
+AVG(cholesterol_mg_dl),217.1523,,AVG(hemoglobin_g_dl),11.86963563,,,,,,,,,,AGE,18-30,31-45,46-60,60+,
+,,,,,,,,,,,,,,High Risk,43,58,58,88,247
+,,,,,,,,,,,,,,Low Risk,255,287,282,458,1282
+,,,,,,,,,,,,,,Moderate Risk,295,345,315,516,1471
+anemia_cases,586,,,,,,,,,,,,,,593,690,655,1062,3000
+infection_cases,1100,,,,,,,,,,,,,,,,,,
+platelet_cases,457,,,,,,,,,,,,,,,,,,
+hyperglycemia_cases,1606,,,,,,,,,,,,GENDER,High Risk,Low Risk,Moderate Risk,,,
+hyponatremia_cases,751,,,,,,,,,,,,Female,120,649,723,1492,,
+hyperlipidemia_cases,1145,,,,,,,,,,,,Male,127,633,748,1508,,
+,,,,,,,,,,,,,,247,1282,1471,3000,,
+,,,,,,,,,,,,,,,,,,,
+age_group,,,,,,,,,,,,,,,,,,,
+18-30,593,,,,,,,,,,,,,,,,,,
+31-45,690,,,,,POWERBI,,,,,,,,,,,,,
+46-60,655,,,,,PAGE 1,TOTAL,,,,,,,,,,,,
+60+,1062,,,,,PAGE 2,HIGH,,,,,,,,,,,,
+,,,POTASSIUM,,,PAGE 3,MODERATE,,,,,,,,,,,,
+GENDER,,,HYPERTENSION,,,PAGE 4,LOW,,,,,,,,,,,,
+MALE,1508,,RISK WISE,,,,,,,,,,,,,,,,
+FEMALE,1492,,,,,,,,,,,,,,,,,,
