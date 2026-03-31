@@ -69,7 +69,14 @@ Through these projects, I aim to combine domain knowledge in healthcare with ana
 
 📁 Folder: [`Project 3 - OCD Patients Analysis`](https://github.com/Ramprasad8056/Healthcare-Data-Analytics-Projects/tree/main/Project%203%20-%20OCD%20Clinical%20Data%20Analysis%20Dashboard)
 
-### 4️⃣ Project 4 – [Title will be updated]
+### 4️⃣ Project 4 – Drug Analysis: Side Effects & Clinical Insights
+- Cleaned and preprocessed drug dataset (~2900+ records)
+- Analyzed drug distribution, side effects, classes, and ratings
+- Evaluated drug availability, safety factors, and review trends
+- Created visualizations (bar, pie, histogram, scatter)
+- Developed a structured report and presentation
+
+  📁 Folder: [`Project 4 – Drug Analysis`](https://github.com/Ramprasad8056/Healthcare-Data-Analytics-Projects/tree/main/Project%203%20-%20OCD%20Clinical%20Data%20Analysis%20Dashboard)
 
 ### 5️⃣ Project 5 – [Title will be updated]
 
